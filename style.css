@@ -1,0 +1,20 @@
+
+/*
+canvas
+{
+    width: 80%;
+    height: 80%
+}
+*/
+
+body
+{
+    margin: 0px;
+    background-color: cadetblue
+}
+
+iframe
+{
+    float: left;
+    width: 50%;
+}
